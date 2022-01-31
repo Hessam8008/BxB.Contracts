@@ -1,0 +1,15 @@
+C:\Projects\BxB.Contracts\Core\Application\bin\Debug\net6.0\BxB.Contracts.Application.deps.json
+C:\Projects\BxB.Contracts\Core\Application\bin\Debug\net6.0\BxB.Contracts.Application.dll
+C:\Projects\BxB.Contracts\Core\Application\bin\Debug\net6.0\ref\BxB.Contracts.Application.dll
+C:\Projects\BxB.Contracts\Core\Application\bin\Debug\net6.0\BxB.Contracts.Application.pdb
+C:\Projects\BxB.Contracts\Core\Application\bin\Debug\net6.0\BxB.Contracts.Domain.dll
+C:\Projects\BxB.Contracts\Core\Application\bin\Debug\net6.0\BxB.Contracts.Domain.pdb
+C:\Projects\BxB.Contracts\Core\Application\obj\Debug\net6.0\BxB.Contracts.Application.csproj.AssemblyReference.cache
+C:\Projects\BxB.Contracts\Core\Application\obj\Debug\net6.0\BxB.Contracts.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BxB.Contracts\Core\Application\obj\Debug\net6.0\BxB.Contracts.Application.AssemblyInfoInputs.cache
+C:\Projects\BxB.Contracts\Core\Application\obj\Debug\net6.0\BxB.Contracts.Application.AssemblyInfo.cs
+C:\Projects\BxB.Contracts\Core\Application\obj\Debug\net6.0\BxB.Contracts.Application.csproj.CoreCompileInputs.cache
+C:\Projects\BxB.Contracts\Core\Application\obj\Debug\net6.0\BxB.Contracts.Application.csproj.CopyComplete
+C:\Projects\BxB.Contracts\Core\Application\obj\Debug\net6.0\BxB.Contracts.Application.dll
+C:\Projects\BxB.Contracts\Core\Application\obj\Debug\net6.0\ref\BxB.Contracts.Application.dll
+C:\Projects\BxB.Contracts\Core\Application\obj\Debug\net6.0\BxB.Contracts.Application.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b87010f2-58cf-4f8a-93ca-16b18c30a971": {
+      "ProjectGuid": "b87010f2-58cf-4f8a-93ca-16b18c30a971",
+      "DisplayName": "BxB.Contracts.Core",
+      "ColorIndex": 0
+    },
+    "3c0789bf-5adb-4009-964b-c5492a4ae3e0": {
+      "ProjectGuid": "3c0789bf-5adb-4009-964b-c5492a4ae3e0",
+      "DisplayName": "BxB.Contracts.Domain",
+      "ColorIndex": 1
+    },
+    "720e2a74-e2ee-40e8-82aa-5a455db26903": {
+      "ProjectGuid": "720e2a74-e2ee-40e8-82aa-5a455db26903",
+      "DisplayName": "BxB.Contracts.Application",
+      "ColorIndex": 2
+    },
+    "9220f8d5-0c44-46cc-bde8-3db4c15b80ce": {
+      "ProjectGuid": "9220f8d5-0c44-46cc-bde8-3db4c15b80ce",
+      "DisplayName": "BxB.Contracts.Persistence",
+      "ColorIndex": 3
+    },
+    "72e7ac8f-b5de-4599-afa4-ec8e8ea62190": {
+      "ProjectGuid": "72e7ac8f-b5de-4599-afa4-ec8e8ea62190",
+      "DisplayName": "BxB.Contracts.WebApi",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

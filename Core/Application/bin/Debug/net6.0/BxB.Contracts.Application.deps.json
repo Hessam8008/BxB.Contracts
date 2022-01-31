@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BxB.Contracts.Application/1.0.0": {
+        "dependencies": {
+          "BxB.Contracts.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BxB.Contracts.Application.dll": {}
+        }
+      },
+      "BxB.Contracts.Domain/1.0.0": {
+        "runtime": {
+          "BxB.Contracts.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BxB.Contracts.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BxB.Contracts.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

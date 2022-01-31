@@ -1,0 +1,12 @@
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\bin\Debug\net6.0\BxB.Contracts.Persistence.deps.json
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\bin\Debug\net6.0\BxB.Contracts.Persistence.dll
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\bin\Debug\net6.0\ref\BxB.Contracts.Persistence.dll
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\bin\Debug\net6.0\BxB.Contracts.Persistence.pdb
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\obj\Debug\net6.0\BxB.Contracts.Persistence.csproj.AssemblyReference.cache
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\obj\Debug\net6.0\BxB.Contracts.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\obj\Debug\net6.0\BxB.Contracts.Persistence.AssemblyInfoInputs.cache
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\obj\Debug\net6.0\BxB.Contracts.Persistence.AssemblyInfo.cs
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\obj\Debug\net6.0\BxB.Contracts.Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\obj\Debug\net6.0\BxB.Contracts.Persistence.dll
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\obj\Debug\net6.0\ref\BxB.Contracts.Persistence.dll
+C:\Projects\BxB.Contracts\Infrastructure\Persistence\obj\Debug\net6.0\BxB.Contracts.Persistence.pdb
